@@ -39,6 +39,10 @@ incoming soon
 
 ## 3D Human Avatar Generation and Animation
 
+**Geometry-Aware Diffusion Models for Multiview Scene Inpainting
+*Ahmad Salimi, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Konstantinos G. Derpanis
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.13335)]
+
 **Emotional Speech-driven 3D Body Animation Via Disentangled Latent Diffusion.**<br>
 *Kiran Chhatre, Radek Daněček, Nikos Athanasiou, Giorgio Becherini, Christopher Peters, Michael J. Black, Timo Bolkart.*<br> 
 CVPR 2024. [[PDF](http://arxiv.org/abs/2312.04466)]
