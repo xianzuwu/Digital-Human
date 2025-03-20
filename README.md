@@ -39,8 +39,8 @@ incoming soon
 
 ## 3D Human Avatar Generation and Animation
 
-**Geometry-Aware Diffusion Models for Multiview Scene Inpainting
-*Ahmad Salimi, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Konstantinos G. Derpanis
+**Geometry-Aware Diffusion Models for Multiview Scene Inpainting.**<br>
+*Ahmad Salimi, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Konstantinos G. Derpanis.*<br> 
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.13335)]
 
 **Emotional Speech-driven 3D Body Animation Via Disentangled Latent Diffusion.**<br>
